@@ -4,3 +4,45 @@
    margin: 20px auto 20px auto;
    border-radius: 10px;
 }
+
+main {
+   background-color: #F4C08D;
+   color: #2A2A2A;
+}
+
+h2 {
+   font-family: "Krona One", Arial, sans-serif;
+   font-size: 40px;
+   letter-spacing: 2.5px;
+   margin: 26px;
+   padding: 10px;
+   text-shadow:3px 2px 1px #FFF;
+   display: flex;
+   justify-content: center;
+
+   background-color: #FE7601;
+   border-radius: 20px;
+   border: 3px solid #FFF;
+   box-shadow: 5px 5px 10px 0 rgba(122, 58, 6, 0.5);
+}
+
+p {
+   font-family: "Instrument Sans", Arial, sans-serif;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 26px;
+   margin-bottom: 26px;
+}
+
+img {
+   border-radius: 15px;
+   border: 3px solid #FE7601;
+   margin-bottom: 26px;
+   display: flex;
+   justify-self: center;
+}
+
+.qu3nch {
+   font-family: "Krona One", Arial, sans-serif;
+   text-shadow:1px 1px 1px #FFF;
+}
